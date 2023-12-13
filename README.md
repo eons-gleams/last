@@ -1,2 +1,3 @@
 # last
 calculate factorial
+numb 
